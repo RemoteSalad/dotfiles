@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = intersecting.green@gmail.com
+	name = Joe Peguero
